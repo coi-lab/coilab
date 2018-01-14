@@ -392,10 +392,11 @@
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
-		background: #FFF;
-		border-radius: 7px 7px 0px 0px;
-		color: #2056ac;
-	}
+	background: #FFF;
+	border-radius: 7px 7px 0px 0px;
+	color: #2056ac;
+	background-color: #FFFFFF;
+}
 	
 	#menu .current_page_item a
 	{
