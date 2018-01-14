@@ -314,7 +314,7 @@
 
 	#header
 	{
-	text-align: center;
+	text-align: left;
 	background-color: #2056AC;
 }
 
@@ -395,7 +395,7 @@
 	background: #FFF;
 	border-radius: 7px 7px 0px 0px;
 	color: #2056ac;
-	background-color: #FFFFFF;
+	background-color: #2056AC;
 }
 	
 	#menu .current_page_item a
